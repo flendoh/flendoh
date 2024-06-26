@@ -9,9 +9,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/flendoh/flendoh/output/snake.svg" alt="Snake animation" />
-
-###
